@@ -1,0 +1,46 @@
+2022-03-11 11:45:21 [main] INFO 
+            point.run.Main - 
+Point { 
+initial coordinates: 
+x0 = 3.0
+y0 = 0.0
+current coordinates and time: 
+x = -2.0
+y = 5.0
+time = 3.0
+calculated characteristics of point: 
+speed = 2,36
+acceleration = 0,79
+}
+2022-03-11 11:45:21 [main] INFO 
+            point.run.Main - 
+Point { 
+initial coordinates: 
+x0 = 3.0
+y0 = 0.0
+current coordinates and time: 
+x = -1.0
+y = 6.0
+time = 4.0
+calculated characteristics of point: 
+speed = 1,80
+acceleration = 0,45
+}
+2022-03-11 11:45:21 [main] INFO 
+            point.run.Main - 
+Point { 
+initial coordinates: 
+x0 = 0.0
+y0 = 0.0
+current coordinates and time: 
+x = 5.0
+y = 6.0
+time = 5.0
+calculated characteristics of point: 
+speed = 1,56
+acceleration = 0,31
+}
+2022-03-11 11:45:21 [main] INFO 
+            point.run.Main - Distance between points: 8,90
+2022-03-11 11:45:21 [main] INFO 
+            point.run.Main - Tracks of two points can intersect: true
